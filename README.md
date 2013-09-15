@@ -14,9 +14,10 @@ I've included a Setup.hs.
 
 Simply,
 
+```
 cabal configure
 cabal build
-
+```
 
 Instructions on use
 -------------------
@@ -28,8 +29,9 @@ This program goes full screen! Q to quit.
 
 Keyboard commands
 -----------------
+```
 Q:      Quit the program
 R:      Rotate the I
 E:      Pause the camera
 W:      Increase the number of subdivisions
-
+```
